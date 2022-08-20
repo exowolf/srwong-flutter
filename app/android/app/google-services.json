@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "596098361190",
+    "project_id": "srwong-app",
+    "storage_bucket": "srwong-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596098361190:android:bc478a242025c0e23c0aa7",
+        "android_client_info": {
+          "package_name": "com.srwong.pdg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596098361190-ag5k20ieusalgtevevm3e8fhbi8sabh9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBgJmyhw88RbVLsLxfT7B_79_UsrhK7a4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596098361190-ag5k20ieusalgtevevm3e8fhbi8sabh9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
